@@ -1,0 +1,46 @@
+{
+  "sites": [
+    { "id": "101", "name": "Google", "url": "https://www.google.com" },
+    { "id": "102", "name": "YouTube", "url": "https://www.youtube.com" },
+    { "id": "103", "name": "Facebook", "url": "https://www.facebook.com" },
+    { "id": "104", "name": "Twitter", "url": "https://www.twitter.com" },
+    { "id": "105", "name": "Instagram", "url": "https://www.instagram.com" },
+    { "id": "106", "name": "LinkedIn", "url": "https://www.linkedin.com" },
+    { "id": "107", "name": "Reddit", "url": "https://www.reddit.com" },
+    { "id": "108", "name": "Pinterest", "url": "https://www.pinterest.com" },
+    { "id": "109", "name": "Quora", "url": "https://www.quora.com" },
+    { "id": "110", "name": "Medium", "url": "https://medium.com" },
+    { "id": "111", "name": "GitHub", "url": "https://github.com" },
+    {
+      "id": "112",
+      "name": "Stack Overflow",
+      "url": "https://stackoverflow.com"
+    },
+    { "id": "113", "name": "CodePen", "url": "https://codepen.io" },
+    { "id": "114", "name": "JSFiddle", "url": "https://jsfiddle.net" },
+    { "id": "115", "name": "React Docs", "url": "https://react.dev" },
+    {
+      "id": "116",
+      "name": "MDN Web Docs",
+      "url": "https://developer.mozilla.org"
+    },
+    { "id": "117", "name": "W3Schools", "url": "https://www.w3schools.com" },
+    {
+      "id": "118",
+      "name": "FreeCodeCamp",
+      "url": "https://www.freecodecamp.org"
+    },
+    { "id": "119", "name": "Udemy", "url": "https://www.udemy.com" },
+    { "id": "120", "name": "Coursera", "url": "https://www.coursera.org" },
+    { "id": "121", "name": "Netflix", "url": "https://www.netflix.com" },
+    { "id": "122", "name": "Amazon", "url": "https://www.amazon.com" },
+    { "id": "123", "name": "Flipkart", "url": "https://www.flipkart.com" },
+    { "id": "124", "name": "PayPal", "url": "https://www.paypal.com" },
+    { "id": "125", "name": "Spotify", "url": "https://www.spotify.com" },
+    { "id": "126", "name": "Twitch", "url": "https://www.twitch.tv" },
+    { "id": "127", "name": "Discord", "url": "https://discord.com" },
+    { "id": "128", "name": "Slack", "url": "https://slack.com" },
+    { "id": "129", "name": "Dropbox", "url": "https://www.dropbox.com" },
+    { "id": "130", "name": "Zoom", "url": "https://zoom.us" }
+  ]
+}
